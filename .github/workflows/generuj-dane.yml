@@ -2,7 +2,7 @@ name: Generuj dane zamowien
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  
+    - cron: '0 12 * * *'  
   workflow_dispatch:  # pozwala uruchomić ręcznie z GitHuba
 
 jobs:
