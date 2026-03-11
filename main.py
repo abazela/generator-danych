@@ -18,7 +18,7 @@ if __name__ == "__main__":
     liczba_nowych_zamowien = 10
     liczba_nowych_klientow = 4
 
-    plik = r"C:\Users\agata\Desktop\Inzynierka\SalesData\generowanieDanych\dane.xlsx"
+    plik = os.path.join(os.getcwd(), "dane.xlsx")
 
     if not os.path.exists(plik):
         df_prod = generowanie_produktów(liczba=liczba_produktow)
@@ -78,6 +78,7 @@ if __name__ == "__main__":
             df_poz_new.to_excel(writer, sheet_name='Pozycje_zamowienie', startrow=len(df_poz)+1, header=False)
 
         print(f"Dopisano: {len(df_zam_new)} zamówień, {len(df_poz_new)} pozycji, {len(df_kli_new)} klientów.")
+
 
 
 
