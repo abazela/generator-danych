@@ -1,26 +1,24 @@
-name: Generuj dane - NOWY
+name: Generuj dane zamowien
 
 on:
-schedule:
-  - cron: '0 12 * * * *'   # test co 5 min
-workflow_dispatch:
+  schedule:
+    - cron: '0 9 * * *'  # codziennie o 9:00 
+  workflow_dispatch:  # pozwala uruchomić ręcznie z GitHuba
 
 jobs:
-generuj:
-  runs-on: ubuntu-latest
-  permissions:
-    contents: write   # kluczowe – daje prawo do pusha
-  steps:
+  generuj:
+    runs-on: ubuntu-latest  # chmura Linux
+    steps:
     - uses: actions/checkout@v4
     - name: Ustaw Pythona
       uses: actions/setup-python@v5
       with:
-        python-version: '3.14'
+        python-version: '3.14'  
     - name: Instaluj pakiety
       run: pip install -r requirements.txt
     - name: Uruchom skrypt
       run: python main.py
-    - name: Commit zmiany
+    - name: Commit zmiany w dane.xlsx
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        commit_message: "Automatycznie wygenerowano nowe dane"
+        commit_message: "Automatycznie wygenerowano nowe dane o ${{ github.event.schedule }}"
