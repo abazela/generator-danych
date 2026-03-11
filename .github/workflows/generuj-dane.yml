@@ -2,7 +2,7 @@ name: Generuj dane zamowien
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # codziennie o 9:00 
+    - cron: '*/5 * * * *'  
   workflow_dispatch:  # pozwala uruchomić ręcznie z GitHuba
 
 jobs:
@@ -13,7 +13,7 @@ jobs:
     - name: Ustaw Pythona
       uses: actions/setup-python@v5
       with:
-        python-version: '3.14'  
+        python-version: '3.12'  
     - name: Instaluj pakiety
       run: pip install -r requirements.txt
     - name: Uruchom skrypt
