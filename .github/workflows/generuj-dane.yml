@@ -21,4 +21,4 @@ jobs:
     - name: Commit zmiany w dane.xlsx
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        commit_message: "Automatycznie wygenerowano nowe dane o ${{ github.event.schedule }}"
+        commit_message: "Wygenerowano nowe dane"
