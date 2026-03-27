@@ -1,12 +1,10 @@
 import random
 from datetime import date, timedelta
-
 import pandas as pd
-
 from constants import STATUS
 
 
-def generowanie_zamowien(liczba_zamowien, klienci, pracownicy, max_id=0):
+def generowanie_zamowien(liczba_zamowien, klienci, pracownicy, max_id=0, nowe=False):
 
     dane = {
         'ID': range(max_id + 1, max_id + liczba_zamowien + 1),
@@ -20,6 +18,12 @@ def generowanie_zamowien(liczba_zamowien, klienci, pracownicy, max_id=0):
 
 
     for _ in range(liczba_zamowien):
+        if nowe: 
+            data_zam = date.today()
+        else:
+            dni_wstecz = random.randint(0, 360)
+            data_zam = date.today()-timedelta(days=dni_wstecz)
+            
         dane['Data_zamowienia'].append(losowa_data_zamowienia())
         dane['Status'].append(random.choice(STATUS))
         #do dopracowania - po klientach
@@ -28,7 +32,3 @@ def generowanie_zamowien(liczba_zamowien, klienci, pracownicy, max_id=0):
         dane['ID_Pracownik'].append(random.randint(1, pracownicy))
 
     return pd.DataFrame(dane)
-
-
-def losowa_data_zamowienia():
-    return date.today() - timedelta(days=random.randint(0, 30))
