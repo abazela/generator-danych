@@ -47,7 +47,7 @@ if __name__ == "__main__":
         df_poz = generowanie_pozycje_zamowienie(
             zamowienia=liczba_zamowien,
             produkty=df_prod,
-            max_id=0,
+            max_id_zamowienia=0,
         )
         df_kli = generowanie_klientow(
             liczba_klientow=liczba_klientow,
@@ -101,8 +101,9 @@ if __name__ == "__main__":
         print("Pozycje zamówienia")
         df_poz_new = generowanie_pozycje_zamowienie(
             zamowienia=liczba_nowych_zamowien,
-            produkty=len(df_prod),
-            max_id=max_id_zam
+            produkty=df_prod,
+            max_id_zamowienia=max_id_zam,
+            max_id_pozycji=df_poz['ID_Pozycja'].max() if not df_poz.empty else 0
         )
 
         df_kli_updated = pd.concat([df_kli, df_kli_new], ignore_index=True)
