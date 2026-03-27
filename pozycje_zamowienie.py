@@ -10,6 +10,7 @@ def generowanie_pozycje_zamowienie(zamowienia, produkty, max_id):
         'ID_Zamowienie': []
     }
 
+    lista_produktow = produkty['ID'].tolist()
 
     for zamowienie in range(max_id + 1, max_id+zamowienia+1):
         liczba_pozycji = random.randint(2, 10)
@@ -19,7 +20,7 @@ def generowanie_pozycje_zamowienie(zamowienia, produkty, max_id):
         for _ in range(liczba_pozycji):
             dane['ID_Pozycja'].append(id_pozycji)
             id_pozycji += 1
-            dane['ID_Produkt'].append(random.randint(1, produkty))
+            dane['ID_Produkt'].append(random.choice(lista_produktow))
             dane['Ilosc_opakowan'].append(random.randint(5, 100))
             dane['ID_Zamowienie'].append(zamowienie)
 

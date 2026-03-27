@@ -46,7 +46,7 @@ if __name__ == "__main__":
         )
         df_poz = generowanie_pozycje_zamowienie(
             zamowienia=liczba_zamowien,
-            produkty=liczba_produktow,
+            produkty=df_prod,
             max_id=0,
         )
         df_kli = generowanie_klientow(
