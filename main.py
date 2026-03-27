@@ -15,7 +15,7 @@ if __name__ == "__main__":
     liczba_produktow = 100
     liczba_pracownikow = 25
 
-    liczba_nowych_zamowien = 10
+    # liczba_nowych_zamowien = 10
     liczba_nowych_klientow = 4
 
     folder = os.path.join(os.getcwd(), "dane_csv")
@@ -45,7 +45,8 @@ if __name__ == "__main__":
         df_poz = generowanie_pozycje_zamowienie(
             zamowienia=liczba_zamowien,
             produkty=liczba_produktow,
-            max_id=0
+            max_id=0, 
+            nowe=False
         )
         df_kli = generowanie_klientow(
             liczba_klientow=liczba_klientow,
@@ -76,6 +77,7 @@ if __name__ == "__main__":
         max_id_zam = df_zam["ID"].max() if not df_zam.empty else 0
         max_id_kli = df_kli["ID"].max() if not df_kli.empty else 0
 
+        liczba_nowych_klientow = random.randint(1,5)
         print("Klienci")
         df_kli_new = generowanie_klientow(
             liczba_klientow=liczba_nowych_klientow,
@@ -83,12 +85,14 @@ if __name__ == "__main__":
             max_id=max_id_kli
         )
 
+        liczba_nowych_zamowien = random.randint(1, 20)
         print("Zamówienia")
         df_zam_new = generowanie_zamowien(
             liczba_zamowien=liczba_nowych_zamowien,
             klienci=len(df_kli) + len(df_kli_new),
             pracownicy=len(df_pra),
-            max_id=max_id_zam
+            max_id=max_id_zam, 
+            nowe = True
         )
 
         print("Pozycje zamówienia")
