@@ -1,8 +1,9 @@
 from produkty import generowanie_produktów
-from zamowienie import generowanie_zamowien
+from zamowienie import generowanie_zamowien, aktualizuj_zamowienia
 from pozycje_zamowienie import generowanie_pozycje_zamowienie
 from klient import generowanie_klientow
 from pracownicy import generowanie_pracownikow
+import random
 
 import pandas as pd
 import os
@@ -40,13 +41,13 @@ if __name__ == "__main__":
         df_zam = generowanie_zamowien(
             liczba_zamowien=liczba_zamowien,
             klienci=liczba_klientow,
-            pracownicy=liczba_pracownikow
+            pracownicy=liczba_pracownikow,
+            nowe=False
         )
         df_poz = generowanie_pozycje_zamowienie(
             zamowienia=liczba_zamowien,
             produkty=liczba_produktow,
-            max_id=0, 
-            nowe=False
+            max_id=0,
         )
         df_kli = generowanie_klientow(
             liczba_klientow=liczba_klientow,
@@ -76,6 +77,8 @@ if __name__ == "__main__":
 
         max_id_zam = df_zam["ID"].max() if not df_zam.empty else 0
         max_id_kli = df_kli["ID"].max() if not df_kli.empty else 0
+
+        df_zam = aktualizuj_zamowienia(df_zam, praw_zwrotu=0.045)
 
         liczba_nowych_klientow = random.randint(1,5)
         print("Klienci")
