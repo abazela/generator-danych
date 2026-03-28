@@ -68,7 +68,7 @@ def aktualizuj_zamowienia(df_zam, praw_zwrotu=0.045):
                 nowy_status = 'Dostarczone'
 
         elif status == 'Dostarczone':
-            if dni > 14:
+            if 14 <dni <= 60:
                 if random.random() < praw_zwrotu:
                     nowy_status = 'Zwrot'
 
