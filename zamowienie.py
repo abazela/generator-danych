@@ -37,7 +37,11 @@ def generowanie_zamowien(liczba_zamowien, klienci, pracownicy, max_id=0, nowe=Fa
         dane['Data_zamowienia'].append(data_zam)
         dane['Status'].append(status)
         #do dopracowania - po klientach
-        dane['Rabat'].append(round(random.uniform(0.05, 0.3),2))
+        rabat = random.choices(
+            [0.00, 0.05, 0.10, 0.15, 0.20, 0.25],
+            weights=[75, 12, 7, 4, 1.5, 0.5]
+        )[0]
+        dane['Rabat'].append(rabat)
         dane['ID_Klient'].append(random.randint(1, klienci))
         dane['ID_Pracownik'].append(random.randint(1, pracownicy))
 
