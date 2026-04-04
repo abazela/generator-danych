@@ -7,9 +7,14 @@ import random
 
 import pandas as pd
 import os
+import time
 
 
 if __name__ == "__main__":
+
+    tryb_testowy = True
+    if tryb_testowy:
+        start = time.perf_counter()
 
     liczba_zamowien = 1000
     liczba_klientow = 500
@@ -62,6 +67,11 @@ if __name__ == "__main__":
         df_pra.to_csv(plik_pracownicy, index=False, encoding="utf-8-sig")
 
         print("Baza początkowa (CSV)")
+
+        if tryb_testowy:
+            end = time.perf_counter()
+            czas = round(end-start, 4)
+            print(czas)
 
     else:
         print("Pliki istnieją, generowanie nowych danych...")
