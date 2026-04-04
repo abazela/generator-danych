@@ -16,9 +16,9 @@ if __name__ == "__main__":
     if tryb_testowy:
         start = time.perf_counter()
 
-    liczba_zamowien = 1000
-    liczba_klientow = 500
-    liczba_produktow = 150
+    liczba_zamowien = 5000
+    liczba_klientow = 1000
+    liczba_produktow = 200
     liczba_pracownikow = 25
 
     # liczba_nowych_zamowien = 10
