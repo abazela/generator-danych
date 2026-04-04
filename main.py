@@ -11,9 +11,9 @@ import os
 
 if __name__ == "__main__":
 
-    liczba_zamowien = 450
-    liczba_klientow = 200
-    liczba_produktow = 100
+    liczba_zamowien = 1000
+    liczba_klientow = 500
+    liczba_produktow = 150
     liczba_pracownikow = 25
 
     # liczba_nowych_zamowien = 10

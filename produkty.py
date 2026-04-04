@@ -54,7 +54,7 @@ def generowanie_produktów(liczba):
     liczba_duplikatów = int(liczba*0.06)
 
     if liczba_duplikatów > 0:
-        #lista oryginalnych indeksów, która zostanie podmieniona przez double
+        #lista oryginalnych indeksów, która zostanie zduplikowana
         oryginalne_idx = random.sample(df.index.tolist(), k=liczba_duplikatów)
 
         duplikaty = []
@@ -62,7 +62,6 @@ def generowanie_produktów(liczba):
         for org_idx in oryginalne_idx:
             nowy_wiersz = df.loc[org_idx].copy() #kopiujemy wiersz
 
-            #nowe ID - duplikaty na dole danych
             if 'ID' in df.columns:
                 max_id = df['ID'].max()
                 nowy_wiersz['ID'] = max_id + 1 + len(duplikaty)

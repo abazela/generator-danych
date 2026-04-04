@@ -1,201 +1,501 @@
 ﻿ID,Nazwa,NIP,Miasto,Typ_klienta,ID_Pracownik
-1,Eko Shine Group,8640579680,Jaworzno,Drogeria specjalistyczna,18
-2,Glow Health,9636204007,Zielona Góra,Medycyna estetyczna / klinika urody,10
-3,Sport Well Team,4948608928,Olsztyn,Zielarnia,3
-4,Premium Natura Bielsko-Biała,6910223585,Słupsk,Gabinet dietetyczny,6
-5,Bio Active & Synowie,6284543034,Kościerzyna,Supermarket / drogeria wielkopowierzchniowa,2
-6,Dbam o Zdrowie Wałbrzych,1754770638,Rybnik,Medycyna estetyczna / klinika urody,1
-7,Fitness Natural Group,7853700418,Gliwice,Drogeria specjalistyczna,3
-8,Vita Eco,7367150345,Starachowice,Apteka,15
-9,Vita Expert,1512287599,Przemyśl,Zielarnia,9
-10,Suplementy Energy Sp. z o.o.,1770657330,Białystok,Sklep internetowy z suplementami,4
-11,Sport Dąbrowa Górnicza,3867824835,Myszków,Supermarket / drogeria wielkopowierzchniowa,21
-12,Fit Glow Jaworzno,4718040536,Piastów,Zielarnia,3
-13,Sport Care & Synowie,5348619046,Ciechanów,Siłownia / klub sportowy,17
-14,Pro Health ,8459872976,Puławy,Zielarnia,24
-15,Vita Elite,5338563423,Żywiec,Sklep internetowy z suplementami,17
-16,Life Pro,6771485630,Szczecin,Gabinet dietetyczny,23
-17,Apteka Gdańsk,7733561460,Włocławek,Supermarket / drogeria wielkopowierzchniowa,23
-18,Drogeria Słupsk,4145736683,Opole,Sklep internetowy z suplementami,17
-19,Vita Częstochowa,3210268409,Częstochowa,Supermarket / drogeria wielkopowierzchniowa,7
-20,Bio Kosmetyki Słupsk,2273161163,Biłgoraj,Siłownia / klub sportowy,6
-21,Natura Life Partner,4857229466,Włocławek,Apteka,22
-22,Care Life Partner,3817675016,Nowy Dwór Mazowiecki,Drogeria specjalistyczna,24
-23,Fitness Premium Team,7267257055,Dąbrowa Górnicza,Zielarnia,22
-24,Vital Life,1422709727,Augustów,Siłownia / klub sportowy,19
-25,Drogeria Vital Team,4596016982,Zawiercie,Supermarket / drogeria wielkopowierzchniowa,4
-26,Muscle Grudziądz,1285019838,Turek,Gabinet dietetyczny,19
-27,Power Zielona Góra,5036180343,Mielec,Gabinet dietetyczny,5
-28,Fitness Elite Group,4090524724,Konin,Sklep internetowy z suplementami,12
-29,Eko Team & Synowie,2402944448,Toruń,Apteka,5
-30,Apteki Eco Group,4571622369,Płock,Apteka,11
-31,Fit Vita Olsztyn,5655896009,Police,Medycyna estetyczna / klinika urody,24
-32,Well Fitness Kielce,7429719108,Bytom,Gabinet dietetyczny,21
-33,Pro Pharma Jaworzno,4735751092,Katowice,Gabinet dietetyczny,15
-34,Vital Sport Partner,0501823879,Przemyśl,Sklep internetowy z suplementami,5
-35,Muscle Wellness,4997059622,Gliwice,Sklep internetowy z suplementami,4
-36,Zielarnia Sport Sp. z o.o.,2124069873,Włocławek,Zielarnia,11
-37,Zielarnia Eco ,4702066431,Wągrowiec,Apteka,25
-38,Active Jaworzno,5020830759,Włocławek,Apteka,15
-39,Max Pro Chorzów,4784778512,Zielona Góra,Zielarnia,25
-40,Herbapol Opole,8964563120,Sandomierz,Supermarket / drogeria wielkopowierzchniowa,3
-41,Nutri Szczecin,6462585118,Bielawa,Siłownia / klub sportowy,3
-42,Beauty Vital,5827066066,Zabrze,Apteka,20
-43,Zdrowie Glow Sp. z o.o.,6608563830,Luboń,Medycyna estetyczna / klinika urody,13
-44,Naturalna Energy & Synowie,1671771897,Świętochłowice,Zielarnia,17
-45,Vital Plus ,8408469364,Sochaczew,Supermarket / drogeria wielkopowierzchniowa,21
-46,Zielarnia Active,8721410533,Oleśnica,Apteka,1
-47,Natura Premium Group,5301952013,Kędzierzyn-Koźle,Gabinet dietetyczny,24
-48,Sport Zdrowie Gdańsk,7904141772,Gdańsk,Sklep internetowy z suplementami,8
-49,Care Zabrze,2318496206,Gdynia,Medycyna estetyczna / klinika urody,9
-50,Natura Expert,4845294017,Chorzów,Apteka,13
-51,Siłownia Płock,5534388969,Tychy,Supermarket / drogeria wielkopowierzchniowa,9
-52,Suplementy Kielce,2153166603,Mikołów,Drogeria specjalistyczna,7
-53,Active Life Gdańsk,2258587260,Jelenia Góra,Supermarket / drogeria wielkopowierzchniowa,24
-54,Life Fitness Szczecin,4619895021,Tarnowskie Góry,Sklep internetowy z suplementami,2
-55,Life Elite Sp. z o.o.,1064518518,Szczecinek,Drogeria specjalistyczna,13
-56,Health Beauty & Synowie,9343217627,Płońsk,Siłownia / klub sportowy,10
-57,Suplementy Health Sp. z o.o.,4088202451,Gorlice,Supermarket / drogeria wielkopowierzchniowa,21
-58,Wellness Drogeria Grudziądz,1953006844,Polkowice,Zielarnia,18
-59,Sport Pro s.c,7446963619,Kraków,Siłownia / klub sportowy,4
-60,Suplementy Power,1324313930,Ostrów Mazowiecka,Gabinet dietetyczny,3
-61,Ultra Natura Jastrzębie-Zdrój,3189899196,Zawiercie,Siłownia / klub sportowy,12
-62,Vital Glow Słupsk,0524158564,Legnica,Zielarnia,19
-63,Eko Legnica,4384890572,Żary,Siłownia / klub sportowy,14
-64,Super Muscle Koszalin,2578401880,Grudziądz,Zielarnia,13
-65,Dbam o Zdrowie Pure,6249482039,Myszków,Sklep internetowy z suplementami,14
-66,Pro Expert s.c,1859883475,Tczew,Apteka,11
-67,Vital Health Warszawa,4964951208,Turek,Sklep internetowy z suplementami,20
-68,Health Wrocław,9825502719,Bydgoszcz,Supermarket / drogeria wielkopowierzchniowa,8
-69,Herbapol Szczecin,2894736572,Piaseczno,Sklep internetowy z suplementami,20
-70,Beauty Natura Jaworzno,6408176098,Turek,Siłownia / klub sportowy,14
-71,Suplementy Kalisz,8805948379,Kołobrzeg,Medycyna estetyczna / klinika urody,12
-72,Well Power Toruń,8639833529,Czeladź,Medycyna estetyczna / klinika urody,3
-73,Kosmetyki Max,3166253341,Bartoszyce,Medycyna estetyczna / klinika urody,4
-74,Apteki Super,4563327858,Racibórz,Siłownia / klub sportowy,9
-75,Naturalna Pro Group,4275935690,Elbląg,Apteka,16
-76,Apteki Fit,8561902167,Jaworzno,Supermarket / drogeria wielkopowierzchniowa,24
-77,Glow Energy,0439482875,Elbląg,Siłownia / klub sportowy,24
-78,Muscle Beauty Team,8330672472,Kalisz,Gabinet dietetyczny,18
-79,Super Care Bielsko-Biała,5382611834,Racibórz,Gabinet dietetyczny,10
-80,Muscle Elite,0127188065,Rzeszów,Apteka,17
-81,Care Gliwice,3353473694,Ostrowiec Świętokrzyski,Siłownia / klub sportowy,7
-82,Nutri Zabrze,6440036336,Tomaszów Mazowiecki,Sklep internetowy z suplementami,14
-83,Pure Dbam o Zdrowie Wrocław,5677052699,Krotoszyn,Sklep internetowy z suplementami,13
-84,Sport Super Sp. z o.o.,6448659320,Brodnica,Supermarket / drogeria wielkopowierzchniowa,23
-85,Power Szczecin,3752765648,Bielsko-Biała,Siłownia / klub sportowy,10
-86,Vital Sport,1063949503,Jastrzębie-Zdrój,Supermarket / drogeria wielkopowierzchniowa,6
-87,Drogeria Strong Partner,7943776002,Słupsk,Drogeria specjalistyczna,8
-88,Force Drogeria Gdynia,6658358055,Kraśnik,Medycyna estetyczna / klinika urody,20
-89,Max Power Gorzów Wielkopolski,1649727800,Łuków,Siłownia / klub sportowy,13
-90,Kosmetyki Gliwice,8084685468,Dąbrowa Górnicza,Siłownia / klub sportowy,15
-91,Well Sport Włocławek,1867996216,Ząbki,Drogeria specjalistyczna,20
-92,Herbapol Ruda Śląska,4944617396,Zabrze,Sklep internetowy z suplementami,17
-93,Naturalna Power,7348023416,Racibórz,Zielarnia,22
-94,Kosmetyki Fit Team,6390206476,Słupsk,Medycyna estetyczna / klinika urody,8
-95,Health Power & Synowie,2294536580,Poznań,Zielarnia,14
-96,Pharma Well Partner,9868339827,Częstochowa,Siłownia / klub sportowy,20
-97,Pharma Natural ,9793175152,Łowicz,Apteka,16
-98,Vita Gold ,1300356896,Bielsko-Biała,Medycyna estetyczna / klinika urody,16
-99,Pro Max,6884116328,Zielona Góra,Apteka,25
-100,Power Expert,4625824214,Wołomin,Zielarnia,18
-101,Naturalna Energy,4057783557,Mikołów,Drogeria specjalistyczna,23
-102,Eko Expert,7512185109,Legionowo,Medycyna estetyczna / klinika urody,10
-103,Natural Vital Grudziądz,8030889069,Ruda Śląska,Gabinet dietetyczny,8
-104,Apteka Zabrze,9098254319,Dzierżoniów,Siłownia / klub sportowy,16
-105,Siłownia Life ,8525580121,Koszalin,Apteka,6
-106,Beauty Pure Sp. z o.o.,1086108413,Września,Medycyna estetyczna / klinika urody,24
-107,Pharma Glow & Synowie,4857079248,Włocławek,Gabinet dietetyczny,11
-108,Care Ultra ,9188297991,Bochnia,Gabinet dietetyczny,8
-109,Zielarnia Kalisz,3933028254,Grudziądz,Siłownia / klub sportowy,3
-110,Ultra Eko Kielce,0883335346,Wodzisław Śląski,Sklep internetowy z suplementami,17
-111,Zielarnia Eco Partner,1662081851,Kościan,Gabinet dietetyczny,19
-112,Herbapol Life,0285206102,Elbląg,Drogeria specjalistyczna,21
-113,Power Glow Toruń,0181916285,Kraków,Gabinet dietetyczny,4
-114,Sport Glow s.c,3203719438,Gorzów Wielkopolski,Apteka,12
-115,Power Expert Team,5668280328,Włocławek,Supermarket / drogeria wielkopowierzchniowa,16
-116,Fitness Wellness ,9611087019,Gorzów Wielkopolski,Supermarket / drogeria wielkopowierzchniowa,25
-117,Fitness Elbląg,5138860254,Sosnowiec,Apteka,9
-118,Force Naturalna Dąbrowa Górnicza,1081778154,Sosnowiec,Sklep internetowy z suplementami,17
-119,Active Team Sp. z o.o.,3126189462,Wałcz,Siłownia / klub sportowy,1
-120,Team Vita Poznań,7217225944,Łomża,Apteka,23
-121,Eco Vita Olsztyn,3007101344,Jastrzębie-Zdrój,Apteka,1
-122,Premium Power Kalisz,8474833935,Legnica,Sklep internetowy z suplementami,19
-123,Force Zielarnia Opole,0855687443,Brodnica,Apteka,15
-124,Team Vita Płock,3688956294,Turek,Gabinet dietetyczny,14
-125,Eko Bio,4096409906,Sosnowiec,Gabinet dietetyczny,16
-126,Well Fitness Elbląg,2204653518,Łódź,Supermarket / drogeria wielkopowierzchniowa,13
-127,Nutri Grudziądz,4850135734,Jaworzno,Apteka,18
-128,Beauty Pharma Tychy,8015822464,Przemyśl,Medycyna estetyczna / klinika urody,24
-129,Super Eko Bielsko-Biała,9694578787,Wejherowo,Medycyna estetyczna / klinika urody,8
-130,Vital Olsztyn,3264202152,Olkusz,Siłownia / klub sportowy,4
-131,Apteki Opole,5840102066,Gorzów Wielkopolski,Medycyna estetyczna / klinika urody,2
-132,Sport Super,6450267500,Chrzanów,Drogeria specjalistyczna,5
-133,Active Health Legnica,2255719494,Knurów,Sklep internetowy z suplementami,7
-134,Suplementy Fit ,9563911647,Oleśnica,Siłownia / klub sportowy,24
-135,Kosmetyki Power,7844608635,Lublin,Siłownia / klub sportowy,16
-136,Naturalna Active,9590176474,Mława,Drogeria specjalistyczna,20
-137,Health Beauty,4223704103,Radom,Supermarket / drogeria wielkopowierzchniowa,23
-138,Bio Warszawa,0189498789,Poznań,Gabinet dietetyczny,19
-139,Drogeria Szczecin,9616468995,Zduńska Wola,Apteka,8
-140,Dbam o Zdrowie Energy,7912005239,Kalisz,Supermarket / drogeria wielkopowierzchniowa,18
-141,Power Vital & Synowie,9734082464,Ostrowiec Świętokrzyski,Supermarket / drogeria wielkopowierzchniowa,20
-142,Life Jaworzno,8851283113,Kutno,Zielarnia,6
-143,Eko Energy ,0755933182,Jastrzębie-Zdrój,Gabinet dietetyczny,24
-144,Care Strong,7353944961,Toruń,Siłownia / klub sportowy,16
-145,Pro Zielarnia Olsztyn,1069426924,Zakopane,Zielarnia,10
-146,Team Health Wrocław,7977970832,Zabrze,Sklep internetowy z suplementami,13
-147,Active Energy,6606117948,Jarocin,Supermarket / drogeria wielkopowierzchniowa,7
-148,Bio Shine Team,5240502979,Białystok,Medycyna estetyczna / klinika urody,18
-149,Well Vital Chorzów,6314370024,Kraśnik,Zielarnia,4
-150,Pharma Gdańsk,6034831857,Białystok,Gabinet dietetyczny,23
-151,Natura Fit,4374926313,Piotrków Trybunalski,Drogeria specjalistyczna,21
-152,Energy Vita Kielce,6878922694,Żory,Zielarnia,14
-153,Vital Pharma Gliwice,0831214235,Luboń,Medycyna estetyczna / klinika urody,13
-154,Ultra Vita Tychy,1715366971,Wieluń,Gabinet dietetyczny,15
-155,Pro Szczecin,3015472762,Łuków,Apteka,9
-156,Suplementy Zielona Góra,8791937986,Skarżysko-Kamienna,Sklep internetowy z suplementami,20
-157,Glow Fitness Gorzów Wielkopolski,0737241177,Kluczbork,Sklep internetowy z suplementami,24
-158,Elite Zielarnia Toruń,1912679387,Grudziądz,Siłownia / klub sportowy,4
-159,Fitness Sport Sp. z o.o.,7426917562,Gorzów Wielkopolski,Supermarket / drogeria wielkopowierzchniowa,24
-160,Elite Vita Wałbrzych,4493559540,Brodnica,Supermarket / drogeria wielkopowierzchniowa,9
-161,Nutri Poznań,4875975447,Białystok,Sklep internetowy z suplementami,21
-162,Team Siłownia Gliwice,7346375911,Sandomierz,Zielarnia,25
-163,Life Super,3907089933,Olkusz,Medycyna estetyczna / klinika urody,11
-164,Active Pure Sp. z o.o.,5491126110,Ruda Śląska,Supermarket / drogeria wielkopowierzchniowa,15
-165,Zdrowie Super Team,5068005369,Rzeszów,Supermarket / drogeria wielkopowierzchniowa,12
-166,Vita Rzeszów,0114948058,Pabianice,Zielarnia,22
-167,Kosmetyki Team Partner,3737251888,Ruda Śląska,Apteka,8
-168,Health Vita Jaworzno,8646964926,Stalowa Wola,Siłownia / klub sportowy,25
-169,Natura Ruda Śląska,6369138274,Kielce,Gabinet dietetyczny,17
-170,Zdrowie Sport,1240593363,Gdańsk,Medycyna estetyczna / klinika urody,11
-171,Apteki Gdynia,5730745952,Dąbrowa Górnicza,Gabinet dietetyczny,3
-172,Pro Vita Gdańsk,9936354631,Łomża,Zielarnia,3
-173,Herbapol Power,0603605271,Poznań,Medycyna estetyczna / klinika urody,23
-174,Elite Kosmetyki Gdańsk,5537648609,Świętochłowice,Sklep internetowy z suplementami,7
-175,Power Apteka Gorzów Wielkopolski,3310899575,Częstochowa,Siłownia / klub sportowy,2
-176,Life Glow,1597784785,Nowa Ruda,Apteka,3
-177,Pro Bielsko-Biała,9629877921,Bełchatów,Apteka,15
-178,Muscle Eco,3106504224,Zielona Góra,Drogeria specjalistyczna,25
-179,Vital Life Sp. z o.o.,3369729978,Oleśnica,Zielarnia,19
-180,Pharma Rybnik,8406198364,Lębork,Apteka,17
-181,Vital Apteka Białystok,9097101613,Radom,Zielarnia,23
-182,Care Life Partner,8179406670,Jaworzno,Drogeria specjalistyczna,11
-183,Suplementy Premium Team,6589072925,Swarzędz,Siłownia / klub sportowy,23
-184,Eko Super Group,0995518534,Częstochowa,Zielarnia,23
-185,Apteka Glow Team,8028218996,Poznań,Gabinet dietetyczny,19
-186,Eko Rzeszów,4749224719,Piotrków Trybunalski,Supermarket / drogeria wielkopowierzchniowa,8
-187,Eco Suplementy Gdynia,0930628856,Kętrzyn,Medycyna estetyczna / klinika urody,12
-188,Bio Wellness,3471287603,Gdynia,Medycyna estetyczna / klinika urody,10
-189,Beauty Care ,2962672457,Luboń,Drogeria specjalistyczna,9
-190,Nutri Strong Team,1742929221,Jelenia Góra,Medycyna estetyczna / klinika urody,9
-191,Naturalna Sport,8972925306,Białystok,Siłownia / klub sportowy,14
-192,Muscle Max,3422967139,Nowa Ruda,Supermarket / drogeria wielkopowierzchniowa,6
-193,Glow Vita Lublin,1403669486,Zawiercie,Apteka,3
-194,Strong Kosmetyki Gliwice,0067712712,Zakopane,Apteka,7
-195,Eko Bio,7958708310,Zgierz,Apteka,25
-196,Ultra Apteki Tychy,1714608315,Kalisz,Supermarket / drogeria wielkopowierzchniowa,17
-197,Care Force,3261479999,Łódź,Supermarket / drogeria wielkopowierzchniowa,16
-198,Drogeria Słupsk,0998689626,Ostrów Mazowiecka,Siłownia / klub sportowy,16
-199,Health Zabrze,1182681458,Czechowice-Dziedzice,Drogeria specjalistyczna,8
-200,Kosmetyki Sport s.c,2541169419,Wałbrzych,Zielarnia,19
+1,Care Max ,0516262952,Pszczyna,Supermarket / drogeria wielkopowierzchniowa,18
+2,Vita Kielce,2864252084,Nowy Targ,Zielarnia,9
+3,Muscle Expert Partner,7713331833,Lublin,Medycyna estetyczna / klinika urody,10
+4,Glow Naturalna Łódź,5842991366,Goleniów,Siłownia / klub sportowy,14
+5,Apteka Fit,3580747730,Grudziądz,Gabinet dietetyczny,16
+6,Suplementy Szczecin,9926012851,Zabrze,Supermarket / drogeria wielkopowierzchniowa,13
+7,Care Sosnowiec,9571323999,Gdańsk,Zielarnia,11
+8,Zdrowie Gold,3201149507,Bielsko-Biała,Drogeria specjalistyczna,7
+9,Fitness Elite Partner,4867697602,Nowy Sącz,Siłownia / klub sportowy,24
+10,Kosmetyki Life & Synowie,2288779689,Grodzisk Mazowiecki,Gabinet dietetyczny,3
+11,Muscle Sport,6827783880,Kraśnik,Drogeria specjalistyczna,4
+12,Premium Fitness Koszalin,6151639600,Włocławek,Medycyna estetyczna / klinika urody,20
+13,Herbapol Glow,1649704757,Gdynia,Drogeria specjalistyczna,16
+14,Pro Jastrzębie-Zdrój,8767843506,Zgorzelec,Supermarket / drogeria wielkopowierzchniowa,13
+15,Zielarnia Bio,2578924654,Biłgoraj,Zielarnia,18
+16,Muscle Strong Group,9947087940,Starogard Gdański,Drogeria specjalistyczna,11
+17,Gold Nutri Kalisz,6027896511,Elbląg,Sklep internetowy z suplementami,22
+18,Care Beauty Bydgoszcz,8802606047,Legionowo,Apteka,10
+19,Well Bio Gliwice,0066079009,Leszno,Drogeria specjalistyczna,11
+20,Sport Sport Grudziądz,8793826979,Jawor,Supermarket / drogeria wielkopowierzchniowa,22
+21,Vita Katowice,7055487516,Zabrze,Supermarket / drogeria wielkopowierzchniowa,16
+22,Herbapol Care,6078085203,Wałbrzych,Supermarket / drogeria wielkopowierzchniowa,18
+23,Suplementy Poznań,5934620024,Dębica,Gabinet dietetyczny,24
+24,Apteka Łódź,3384544169,Świebodzice,Supermarket / drogeria wielkopowierzchniowa,18
+25,Health Ultra,7974152408,Czechowice-Dziedzice,Siłownia / klub sportowy,10
+26,Suplementy Fit,4249234911,Płock,Gabinet dietetyczny,6
+27,Drogeria Max,9691047582,Włocławek,Supermarket / drogeria wielkopowierzchniowa,3
+28,Bio Jastrzębie-Zdrój,8738873840,Warszawa,Zielarnia,18
+29,Plus Sport Jastrzębie-Zdrój,7558796988,Zabrze,Supermarket / drogeria wielkopowierzchniowa,6
+30,Suplementy Sosnowiec,5262517004,Środa Wielkopolska,Supermarket / drogeria wielkopowierzchniowa,21
+31,Sport Sport Legnica,1347671474,Jastrzębie-Zdrój,Zielarnia,22
+32,Glow Siłownia Zielona Góra,4992815975,Bartoszyce,Medycyna estetyczna / klinika urody,7
+33,Ultra Pro Ruda Śląska,5590020662,Sochaczew,Supermarket / drogeria wielkopowierzchniowa,16
+34,Suplementy Health,7789367915,Wałbrzych,Apteka,14
+35,Vital Nutri Warszawa,8773779795,Gdynia,Sklep internetowy z suplementami,17
+36,Pro Power Legnica,0011608494,Nowy Dwór Mazowiecki,Gabinet dietetyczny,3
+37,Herbapol Pure Partner,3854404538,Zabrze,Medycyna estetyczna / klinika urody,20
+38,Naturalna Max & Synowie,8705595027,Ruda Śląska,Medycyna estetyczna / klinika urody,7
+39,Team Care Elbląg,6756694691,Czerwionka-Leszczyny,Zielarnia,7
+40,Energy Eko Zielona Góra,0272600687,Mikołów,Apteka,4
+41,Naturalna Częstochowa,7415874332,Oława,Zielarnia,16
+42,Dbam o Zdrowie Kalisz,4520274254,Bielsko-Biała,Zielarnia,22
+43,Expert Active Koszalin,0195022919,Włocławek,Sklep internetowy z suplementami,3
+44,Health Ruda Śląska,6612231983,Szczytno,Drogeria specjalistyczna,13
+45,Naturalna Eco,8755191282,Września,Drogeria specjalistyczna,18
+46,Drogeria Łódź,3707521768,Gdynia,Zielarnia,20
+47,Dbam o Zdrowie Gliwice,9869932075,Legionowo,Drogeria specjalistyczna,15
+48,Dbam o Zdrowie Ultra Sp. z o.o.,5199071773,Płońsk,Apteka,10
+49,Vita Max,3756380407,Jastrzębie-Zdrój,Medycyna estetyczna / klinika urody,15
+50,Pure Vita Zielona Góra,1304379458,Jarosław,Drogeria specjalistyczna,13
+51,Health Rzeszów,8783304926,Jaworzno,Drogeria specjalistyczna,24
+52,Vital Health,3232891877,Gliwice,Apteka,8
+53,Life Super Sp. z o.o.,9457150820,Jaworzno,Drogeria specjalistyczna,24
+54,Apteki Ultra,7757993011,Biała Podlaska,Supermarket / drogeria wielkopowierzchniowa,1
+55,Herbapol Health ,5102359599,Skawina,Supermarket / drogeria wielkopowierzchniowa,22
+56,Zielarnia Włocławek,3991945125,Żory,Sklep internetowy z suplementami,11
+57,Herbapol Kraków,3902040590,Jawor,Sklep internetowy z suplementami,9
+58,Plus Eko Wałbrzych,6428637894,Koło,Apteka,2
+59,Natura Pure,5348198245,Łódź,Siłownia / klub sportowy,12
+60,Drogeria Expert,3454100828,Leszno,Zielarnia,9
+61,Life Strong,8751674050,Ostrołęka,Siłownia / klub sportowy,24
+62,Power Płock,2688969803,Chorzów,Drogeria specjalistyczna,16
+63,Ultra Vita Lublin,4565122719,Płock,Medycyna estetyczna / klinika urody,14
+64,Dbam o Zdrowie Kraków,0915464898,Lublin,Gabinet dietetyczny,14
+65,Bio Power,0594869472,Sosnowiec,Siłownia / klub sportowy,18
+66,Active Wałbrzych,5964391678,Toruń,Apteka,9
+67,Max Zielarnia Jastrzębie-Zdrój,2432541681,Lubartów,Drogeria specjalistyczna,20
+68,Suplementy Fit ,4734011526,Suwałki,Apteka,19
+69,Naturalna Wellness ,0642594138,Katowice,Medycyna estetyczna / klinika urody,2
+70,Wellness Muscle Sosnowiec,1993747311,Zgorzelec,Gabinet dietetyczny,19
+71,Active Sosnowiec,5728704377,Toruń,Sklep internetowy z suplementami,2
+72,Sport Power Sp. z o.o.,9098433700,Krosno,Supermarket / drogeria wielkopowierzchniowa,19
+73,Care Kraków,6625153751,Wągrowiec,Medycyna estetyczna / klinika urody,3
+74,Glow Energy,1292631041,Wałbrzych,Zielarnia,12
+75,Fitness Power Group,1550277518,Słupsk,Medycyna estetyczna / klinika urody,1
+76,Fitness Gold,3114087707,Łowicz,Drogeria specjalistyczna,23
+77,Vital Plus,2046074558,Zgierz,Zielarnia,12
+78,Eko Natural,6955239363,Jaworzno,Sklep internetowy z suplementami,24
+79,Dbam o Zdrowie Tychy,3326893028,Kwidzyn,Siłownia / klub sportowy,1
+80,Health Nutri Łódź,2469749167,Kielce,Gabinet dietetyczny,18
+81,Super Dbam o Zdrowie Gdańsk,2348546982,Kłodzko,Gabinet dietetyczny,7
+82,Eko Toruń,1555852679,Gorzów Wielkopolski,Medycyna estetyczna / klinika urody,11
+83,Pharma Gold,5962252280,Tychy,Medycyna estetyczna / klinika urody,20
+84,Pharma Tychy,3079978378,Czechowice-Dziedzice,Gabinet dietetyczny,6
+85,Premium Care Wrocław,7295238052,Gniezno,Siłownia / klub sportowy,12
+86,Natura Ultra Group,7276696979,Skarżysko-Kamienna,Supermarket / drogeria wielkopowierzchniowa,25
+87,Active Sport Partner,4262705400,Wejherowo,Gabinet dietetyczny,3
+88,Glow Beauty s.c,8293483404,Bełchatów,Medycyna estetyczna / klinika urody,15
+89,Pro Eco,0992833849,Mysłowice,Siłownia / klub sportowy,3
+90,Fitness Gliwice,3535527022,Krosno,Gabinet dietetyczny,19
+91,Siłownia Vital,6519028026,Bielawa,Apteka,11
+92,Vita Tychy,8648828145,Słupsk,Medycyna estetyczna / klinika urody,17
+93,Nutri Gliwice,5579816925,Kielce,Drogeria specjalistyczna,6
+94,Active Vital Gorzów Wielkopolski,6618773778,Ciechanów,Supermarket / drogeria wielkopowierzchniowa,14
+95,Kosmetyki Active,9528173044,Kluczbork,Drogeria specjalistyczna,4
+96,Apteki Bio Partner,4749746300,Elbląg,Supermarket / drogeria wielkopowierzchniowa,5
+97,Zielarnia Vital Sp. z o.o.,2287446772,Bydgoszcz,Siłownia / klub sportowy,12
+98,Health Power s.c,1506605068,Radom,Gabinet dietetyczny,20
+99,Glow Shine Group,0286761265,Wejherowo,Siłownia / klub sportowy,21
+100,Vita Pure Group,8975573859,Malbork,Zielarnia,18
+101,Muscle Care,9475958733,Szczecinek,Medycyna estetyczna / klinika urody,10
+102,Life Natural ,2852424014,Ostrów Mazowiecka,Supermarket / drogeria wielkopowierzchniowa,1
+103,Pro Gold s.c,5509328633,Gdańsk,Apteka,21
+104,Life Tychy,1339058089,Kętrzyn,Medycyna estetyczna / klinika urody,18
+105,Sport Wellness s.c,1985153638,Chojnice,Apteka,9
+106,Life Force,2608418240,Racibórz,Siłownia / klub sportowy,18
+107,Pro Care ,3565536662,Wrocław,Zielarnia,19
+108,Strong Suplementy Jastrzębie-Zdrój,4744893606,Sosnowiec,Supermarket / drogeria wielkopowierzchniowa,4
+109,Kosmetyki Poznań,6218242061,Jasło,Siłownia / klub sportowy,22
+110,Vita Toruń,3650961058,Zgorzelec,Apteka,12
+111,Zdrowie Health ,9007096988,Starachowice,Zielarnia,3
+112,Care Katowice,1316083527,Mikołów,Zielarnia,14
+113,Herbapol Shine,9296939866,Warszawa,Zielarnia,19
+114,Beauty Elbląg,1319838724,Polkowice,Supermarket / drogeria wielkopowierzchniowa,20
+115,Pharma Glow Sp. z o.o.,1928899960,Opole,Siłownia / klub sportowy,12
+116,Zielarnia Legnica,5640938052,Bochnia,Apteka,4
+117,Glow Plus,5389333848,Rumia,Siłownia / klub sportowy,25
+118,Force Pro Rzeszów,6634190778,Siemianowice Śląskie,Apteka,10
+119,Strong Herbapol Dąbrowa Górnicza,0564938024,Ruda Śląska,Zielarnia,4
+120,Well Naturalna Bielsko-Biała,1755595005,Koło,Gabinet dietetyczny,1
+121,Zdrowie Legnica,3379910979,Wałcz,Zielarnia,12
+122,Bio Siłownia Gliwice,8181709991,Skierniewice,Drogeria specjalistyczna,13
+123,Pharma Sport Sp. z o.o.,4113786088,Elbląg,Supermarket / drogeria wielkopowierzchniowa,7
+124,Muscle Grudziądz,2941600846,Starogard Gdański,Siłownia / klub sportowy,10
+125,Sport Care,6134140923,Kutno,Siłownia / klub sportowy,22
+126,Beauty Suplementy Włocławek,4866511700,Jastrzębie-Zdrój,Supermarket / drogeria wielkopowierzchniowa,10
+127,Natura Opole,9490084042,Jelenia Góra,Medycyna estetyczna / klinika urody,11
+128,Glow Energy Team,2824831241,Polkowice,Siłownia / klub sportowy,20
+129,Power Bielsko-Biała,6439322768,Mława,Medycyna estetyczna / klinika urody,19
+130,Health Team,1187573843,Tychy,Zielarnia,20
+131,Vita Zabrze,3257183074,Bytom,Gabinet dietetyczny,9
+132,Max Drogeria Sosnowiec,8515282304,Bydgoszcz,Drogeria specjalistyczna,9
+133,Muscle Olsztyn,1665813028,Olsztyn,Apteka,15
+134,Naturalna Słupsk,6600844605,Mińsk Mazowiecki,Gabinet dietetyczny,4
+135,Vital Sosnowiec,1667000079,Turek,Zielarnia,25
+136,Dbam o Zdrowie Well,8694629858,Łaziska Górne,Apteka,25
+137,Suplementy Shine Group,6272658519,Wałcz,Gabinet dietetyczny,1
+138,Vital Beauty Team,9914643324,Żagań,Sklep internetowy z suplementami,2
+139,Vita Team ,1469572476,Tarnobrzeg,Siłownia / klub sportowy,21
+140,Apteka Gdańsk,5582073815,Kielce,Gabinet dietetyczny,22
+141,Pure Zdrowie Lublin,6363073169,Ciechanów,Drogeria specjalistyczna,6
+142,Plus Beauty Legnica,4158474953,Gdynia,Medycyna estetyczna / klinika urody,15
+143,Pro Nutri Legnica,4359389062,Rybnik,Supermarket / drogeria wielkopowierzchniowa,5
+144,Beauty Glow Sp. z o.o.,3711922146,Radom,Zielarnia,25
+145,Suplementy Wrocław,1171514091,Kalisz,Drogeria specjalistyczna,15
+146,Drogeria Strong Group,5410532318,Ruda Śląska,Gabinet dietetyczny,24
+147,Power Bielsko-Biała,7666973411,Skierniewice,Drogeria specjalistyczna,20
+148,Super Glow Wałbrzych,1178493764,Rybnik,Medycyna estetyczna / klinika urody,16
+149,Expert Muscle Lublin,4402145239,Swarzędz,Sklep internetowy z suplementami,23
+150,Natura Bydgoszcz,8628999104,Zamość,Zielarnia,4
+151,Sport Force,5866479402,Myszków,Sklep internetowy z suplementami,10
+152,Apteka Poznań,1404108454,Zduńska Wola,Gabinet dietetyczny,21
+153,Energy Pharma Koszalin,7605457164,Słupsk,Medycyna estetyczna / klinika urody,24
+154,Life Poznań,9095341836,Wodzisław Śląski,Zielarnia,22
+155,Elite Health Wrocław,3007094972,Jawor,Sklep internetowy z suplementami,17
+156,Bio Power,3841000147,Gorzów Wielkopolski,Supermarket / drogeria wielkopowierzchniowa,13
+157,Herbapol Beauty,8615304417,Sieradz,Medycyna estetyczna / klinika urody,8
+158,Max Herbapol Dąbrowa Górnicza,0948129404,Słupsk,Apteka,13
+159,Zdrowie Max,3232108441,Ełk,Supermarket / drogeria wielkopowierzchniowa,25
+160,Ultra Health Słupsk,1895945370,Toruń,Zielarnia,6
+161,Herbapol Ultra s.c,2152940973,Białogard,Apteka,16
+162,Eco Power Wrocław,5058333641,Chorzów,Zielarnia,11
+163,Active Sport,2714869312,Białystok,Supermarket / drogeria wielkopowierzchniowa,24
+164,Care Wellness,6103735805,Wałbrzych,Siłownia / klub sportowy,21
+165,Dbam o Zdrowie Legnica,9582909160,Tarnów,Gabinet dietetyczny,21
+166,Active Legnica,4631789535,Koszalin,Supermarket / drogeria wielkopowierzchniowa,16
+167,Life Natural,9004713681,Katowice,Zielarnia,24
+168,Vital Koszalin,6563574748,Lublin,Apteka,19
+169,Muscle Natural Partner,5207458420,Tychy,Zielarnia,20
+170,Suplementy Shine Group,6275015185,Chełm,Apteka,17
+171,Eko Grudziądz,6199062128,Skierniewice,Apteka,6
+172,Vita Plus Team,7669005368,Tczew,Zielarnia,20
+173,Health Nutri Ruda Śląska,6984372260,Bielsko-Biała,Sklep internetowy z suplementami,23
+174,Natura Active,1055709421,Żyrardów,Gabinet dietetyczny,8
+175,Muscle Ultra Partner,8249464642,Piaseczno,Apteka,7
+176,Glow Sport,6740324476,Płock,Medycyna estetyczna / klinika urody,1
+177,Muscle Wrocław,5886653835,Olsztyn,Medycyna estetyczna / klinika urody,9
+178,Herbapol Health,2995275307,Włocławek,Sklep internetowy z suplementami,1
+179,Apteka Wellness,5379647998,Lublin,Gabinet dietetyczny,4
+180,Bio Rybnik,6963605632,Bielawa,Medycyna estetyczna / klinika urody,7
+181,Naturalna Premium,8926018104,Pruszcz Gdański,Siłownia / klub sportowy,11
+182,Sport Eco & Synowie,8118394639,Gdańsk,Supermarket / drogeria wielkopowierzchniowa,3
+183,Pure Dbam o Zdrowie Jastrzębie-Zdrój,4862972508,Zamość,Supermarket / drogeria wielkopowierzchniowa,10
+184,Beauty Fitness Chorzów,2824663154,Słupsk,Gabinet dietetyczny,21
+185,Force Vita Gdańsk,7585987346,Legionowo,Gabinet dietetyczny,20
+186,Eko Ruda Śląska,2599351662,Radom,Drogeria specjalistyczna,20
+187,Bio Power Tychy,8569177895,Sosnowiec,Apteka,24
+188,Natural Kosmetyki Gorzów Wielkopolski,3390591938,Czeladź,Sklep internetowy z suplementami,6
+189,Glow Plus,3645476503,Gorlice,Zielarnia,10
+190,Kosmetyki Force Team,0362657927,Otwock,Supermarket / drogeria wielkopowierzchniowa,23
+191,Eko Bio s.c,0606792018,Ząbki,Gabinet dietetyczny,14
+192,Fitness Glow,4857858015,Rumia,Medycyna estetyczna / klinika urody,7
+193,Health Bio Kielce,0774952253,Jastrzębie-Zdrój,Apteka,25
+194,Natura Super,0724137415,Gdańsk,Zielarnia,13
+195,Vita Active,1105107364,Krotoszyn,Drogeria specjalistyczna,15
+196,Kosmetyki Expert s.c,8461975278,Ciechanów,Medycyna estetyczna / klinika urody,7
+197,Drogeria Grudziądz,8117724364,Gdynia,Sklep internetowy z suplementami,20
+198,Zdrowie Bio,6899820654,Olsztyn,Medycyna estetyczna / klinika urody,9
+199,Herbapol Wałbrzych,2229326365,Siedlce,Medycyna estetyczna / klinika urody,23
+200,Power Life ,6205789941,Kalisz,Siłownia / klub sportowy,18
+201,Fitness Power,8284051259,Dąbrowa Górnicza,Gabinet dietetyczny,3
+202,Pharma Power,3611897537,Nowy Targ,Apteka,16
+203,Vita Active Sp. z o.o.,4430208357,Skawina,Drogeria specjalistyczna,25
+204,Naturalna Glow,7642963391,Elbląg,Sklep internetowy z suplementami,24
+205,Power Well,6579675278,Jarosław,Drogeria specjalistyczna,14
+206,Plus Beauty Gdańsk,9503532951,Zakopane,Supermarket / drogeria wielkopowierzchniowa,2
+207,Vita Kielce,1926438706,Ciechanów,Siłownia / klub sportowy,4
+208,Kosmetyki Gdynia,3051662771,Białystok,Siłownia / klub sportowy,17
+209,Apteka Well s.c,4019668968,Bolesławiec,Siłownia / klub sportowy,9
+210,Vita Chorzów,4881686486,Łowicz,Apteka,15
+211,Herbapol Włocławek,4034280294,Skarżysko-Kamienna,Apteka,16
+212,Vital Vital Rzeszów,6224116141,Wrocław,Siłownia / klub sportowy,4
+213,Health Muscle Chorzów,0123084876,Gorzów Wielkopolski,Gabinet dietetyczny,22
+214,Max Sport Bydgoszcz,2425288711,Wyszków,Sklep internetowy z suplementami,16
+215,Dbam o Zdrowie Fit Partner,7713052752,Starachowice,Sklep internetowy z suplementami,10
+216,Beauty Fit Partner,2367475589,Kościerzyna,Siłownia / klub sportowy,25
+217,Apteki Gold,1942809808,Tczew,Sklep internetowy z suplementami,13
+218,Nutri Vital,0933845495,Toruń,Sklep internetowy z suplementami,19
+219,Health Power,7349163734,Ruda Śląska,Zielarnia,16
+220,Life Elite,4169103237,Gdynia,Sklep internetowy z suplementami,24
+221,Kosmetyki Elite ,4142590272,Kościerzyna,Apteka,23
+222,Apteka Pure,1934560636,Pruszcz Gdański,Gabinet dietetyczny,16
+223,Glow Sport Ruda Śląska,0693812032,Ostrowiec Świętokrzyski,Sklep internetowy z suplementami,1
+224,Herbapol Glow ,0477030311,Gorzów Wielkopolski,Zielarnia,10
+225,Max Suplementy Płock,3157343747,Bielsko-Biała,Apteka,20
+226,Health Gorzów Wielkopolski,4259689750,Dzierżoniów,Supermarket / drogeria wielkopowierzchniowa,8
+227,Bio Pro,1682560545,Polkowice,Drogeria specjalistyczna,20
+228,Shine Sport Łódź,3365687203,Łódź,Supermarket / drogeria wielkopowierzchniowa,8
+229,Apteka Life & Synowie,5771984652,Łaziska Górne,Drogeria specjalistyczna,11
+230,Muscle Well,7728864360,Nowy Targ,Siłownia / klub sportowy,10
+231,Apteki Wellness s.c,6888879844,Katowice,Supermarket / drogeria wielkopowierzchniowa,15
+232,Zdrowie Life ,1003235216,Goleniów,Siłownia / klub sportowy,16
+233,Fitness Ultra Sp. z o.o.,0774605142,Ciechanów,Sklep internetowy z suplementami,3
+234,Vital Plus & Synowie,6723548244,Żary,Medycyna estetyczna / klinika urody,16
+235,Zdrowie Gold Group,9374672972,Zielona Góra,Zielarnia,4
+236,Power Gdynia,7665072599,Opole,Supermarket / drogeria wielkopowierzchniowa,5
+237,Glow Szczecin,5460232170,Racibórz,Medycyna estetyczna / klinika urody,11
+238,Health Life Olsztyn,8628986382,Gorzów Wielkopolski,Supermarket / drogeria wielkopowierzchniowa,7
+239,Eko Power,7664598934,Będzin,Zielarnia,2
+240,Apteki Jaworzno,3286968529,Bydgoszcz,Siłownia / klub sportowy,21
+241,Vital Ultra Sp. z o.o.,1765107407,Krotoszyn,Drogeria specjalistyczna,8
+242,Power Active Bydgoszcz,7437959022,Krotoszyn,Zielarnia,15
+243,Dbam o Zdrowie Szczecin,7725632145,Piaseczno,Sklep internetowy z suplementami,12
+244,Vita Life Sp. z o.o.,7328393734,Wrocław,Medycyna estetyczna / klinika urody,2
+245,Care Sosnowiec,7587181714,Środa Wielkopolska,Siłownia / klub sportowy,19
+246,Eko Wałbrzych,3824497144,Kluczbork,Drogeria specjalistyczna,4
+247,Power Pro Opole,7962330578,Wałbrzych,Medycyna estetyczna / klinika urody,14
+248,Drogeria Vital s.c,6072538829,Ostrołęka,Sklep internetowy z suplementami,21
+249,Beauty Zabrze,5114056783,Sopot,Apteka,19
+250,Muscle Care ,7820633509,Lubliniec,Zielarnia,16
+251,Muscle Eco ,0739460982,Chojnice,Sklep internetowy z suplementami,6
+252,Natura Koszalin,6146224986,Łowicz,Supermarket / drogeria wielkopowierzchniowa,4
+253,Eko Elite,2330374264,Włocławek,Drogeria specjalistyczna,2
+254,Suplementy Koszalin,2850376076,Radom,Gabinet dietetyczny,14
+255,Vita Premium & Synowie,1710702115,Piaseczno,Supermarket / drogeria wielkopowierzchniowa,9
+256,Suplementy Wellness,2108795773,Augustów,Medycyna estetyczna / klinika urody,1
+257,Team Natura Bielsko-Biała,9003257880,Sosnowiec,Sklep internetowy z suplementami,21
+258,Glow Sport Zabrze,6175180392,Cieszyn,Sklep internetowy z suplementami,12
+259,Drogeria Radom,6739829056,Zamość,Supermarket / drogeria wielkopowierzchniowa,13
+260,Naturalna Kraków,1530165960,Świdnica,Apteka,11
+261,Health Tychy,2898704271,Jaworzno,Gabinet dietetyczny,12
+262,Gold Siłownia Włocławek,8767168710,Legnica,Siłownia / klub sportowy,21
+263,Siłownia Warszawa,2099468703,Zabrze,Sklep internetowy z suplementami,6
+264,Life Super Group,5853870922,Zgorzelec,Medycyna estetyczna / klinika urody,8
+265,Glow Shine,8395803735,Dąbrowa Górnicza,Supermarket / drogeria wielkopowierzchniowa,20
+266,Nutri Słupsk,4014448797,Dzierżoniów,Apteka,20
+267,Naturalna Łódź,3502331800,Koszalin,Gabinet dietetyczny,9
+268,Naturalna Force,1168334503,Rybnik,Gabinet dietetyczny,20
+269,Sport Power,1341778736,Dębica,Sklep internetowy z suplementami,11
+270,Drogeria Health s.c,1843688955,Łaziska Górne,Supermarket / drogeria wielkopowierzchniowa,16
+271,Sport Szczecin,4791323353,Bydgoszcz,Gabinet dietetyczny,11
+272,Vital Power,2732578955,Radom,Gabinet dietetyczny,11
+273,Muscle Max ,8265485967,Zamość,Medycyna estetyczna / klinika urody,17
+274,Power Rybnik,0815487855,Gliwice,Zielarnia,22
+275,Gold Vital Katowice,5694034587,Augustów,Apteka,5
+276,Nutri Power,2397454936,Gniezno,Siłownia / klub sportowy,15
+277,Suplementy Strong,6097125826,Olsztyn,Supermarket / drogeria wielkopowierzchniowa,7
+278,Zielarnia Life,8719964229,Poznań,Apteka,23
+279,Sport Gold s.c,6215246672,Konin,Supermarket / drogeria wielkopowierzchniowa,23
+280,Beauty Łódź,4425055810,Stalowa Wola,Apteka,18
+281,Siłownia Life & Synowie,7496142867,Kraków,Medycyna estetyczna / klinika urody,22
+282,Drogeria Zabrze,5302680628,Oleśnica,Sklep internetowy z suplementami,4
+283,Pharma Bio,8676272624,Rumia,Apteka,21
+284,Life Pro Team,1189236941,Rybnik,Gabinet dietetyczny,20
+285,Vital Jastrzębie-Zdrój,8639895009,Bytom,Drogeria specjalistyczna,15
+286,Eko Shine Group,8839409915,Rzeszów,Gabinet dietetyczny,2
+287,Vital Active,9614140472,Kraków,Medycyna estetyczna / klinika urody,2
+288,Suplementy Pure Group,1992749482,Wyszków,Drogeria specjalistyczna,13
+289,Power Muscle Częstochowa,4222547618,Kościerzyna,Gabinet dietetyczny,1
+290,Apteki Expert ,2960092869,Kościan,Gabinet dietetyczny,17
+291,Shine Muscle Tychy,0916926463,Sopot,Supermarket / drogeria wielkopowierzchniowa,1
+292,Force Dbam o Zdrowie Słupsk,3975400935,Szczecinek,Apteka,7
+293,Active Koszalin,5019343745,Olsztyn,Medycyna estetyczna / klinika urody,3
+294,Active Super Sp. z o.o.,3981941648,Ruda Śląska,Drogeria specjalistyczna,24
+295,Eko Poznań,7117231971,Lębork,Medycyna estetyczna / klinika urody,23
+296,Glow Max,8249584944,Bydgoszcz,Drogeria specjalistyczna,4
+297,Active Health Team,3656968004,Będzin,Drogeria specjalistyczna,7
+298,Super Bio Gorzów Wielkopolski,1533320514,Turek,Medycyna estetyczna / klinika urody,13
+299,Pharma Gdynia,5388570432,Poznań,Sklep internetowy z suplementami,2
+300,Fit Muscle Rzeszów,5475875729,Opole,Siłownia / klub sportowy,12
+301,Bio Shine,2918468722,Sieradz,Supermarket / drogeria wielkopowierzchniowa,2
+302,Active Super Group,0857316401,Tarnobrzeg,Supermarket / drogeria wielkopowierzchniowa,15
+303,Pharma Jaworzno,3762990189,Tarnowskie Góry,Apteka,24
+304,Vita Wellness,7135752026,Rumia,Sklep internetowy z suplementami,9
+305,Zdrowie Płock,1280753976,Tomaszów Mazowiecki,Medycyna estetyczna / klinika urody,18
+306,Eko Expert,3160783665,Ruda Śląska,Sklep internetowy z suplementami,12
+307,Fitness Natural,2248669424,Wałcz,Apteka,23
+308,Muscle Bydgoszcz,0986263548,Jaworzno,Zielarnia,23
+309,Pharma Poznań,5148541813,Ruda Śląska,Supermarket / drogeria wielkopowierzchniowa,18
+310,Muscle Toruń,7039241097,Śrem,Drogeria specjalistyczna,11
+311,Beauty Life,3378047636,Nowa Ruda,Medycyna estetyczna / klinika urody,2
+312,Life Kosmetyki Częstochowa,1443621692,Lublin,Drogeria specjalistyczna,23
+313,Muscle Fit,9383394130,Świnoujście,Sklep internetowy z suplementami,19
+314,Care Poznań,8861856323,Elbląg,Zielarnia,10
+315,Vita Expert Team,5662044597,Wałbrzych,Gabinet dietetyczny,16
+316,Sport Apteki Katowice,9139308815,Oława,Drogeria specjalistyczna,18
+317,Life Bio & Synowie,0073802195,Katowice,Siłownia / klub sportowy,24
+318,Apteka Eco Group,2375407517,Skierniewice,Supermarket / drogeria wielkopowierzchniowa,22
+319,Max Natura Legnica,3015424016,Turek,Supermarket / drogeria wielkopowierzchniowa,13
+320,Strong Apteki Bydgoszcz,1702511359,Włocławek,Apteka,18
+321,Siłownia Bio,0927119164,Szczecin,Siłownia / klub sportowy,4
+322,Vital Power,9463680385,Sochaczew,Medycyna estetyczna / klinika urody,10
+323,Herbapol Glow,2859440814,Kluczbork,Zielarnia,17
+324,Vital Bio,8121328798,Mielec,Zielarnia,16
+325,Life Fit ,3195177213,Łódź,Siłownia / klub sportowy,3
+326,Natural Bio Słupsk,8318935000,Wieluń,Apteka,23
+327,Vita Elite & Synowie,3226511883,Kielce,Siłownia / klub sportowy,13
+328,Energy Herbapol Dąbrowa Górnicza,9941471508,Sopot,Drogeria specjalistyczna,10
+329,Life Max,7910066210,Płock,Supermarket / drogeria wielkopowierzchniowa,20
+330,Care Drogeria Rybnik,7586965226,Września,Gabinet dietetyczny,20
+331,Fitness Team & Synowie,2953318030,Września,Apteka,15
+332,Health Strong,1548546327,Pruszków,Zielarnia,25
+333,Pro Poznań,9544129160,Poznań,Sklep internetowy z suplementami,7
+334,Care Sport,5211797427,Gdynia,Medycyna estetyczna / klinika urody,10
+335,Herbapol Premium Group,3776403071,Września,Medycyna estetyczna / klinika urody,10
+336,Natura Team,6209851514,Jawor,Gabinet dietetyczny,12
+337,Pro Gdańsk,2797240371,Lubin,Sklep internetowy z suplementami,21
+338,Fitness Zielona Góra,0192661109,Bolesławiec,Sklep internetowy z suplementami,10
+339,Well Eko Gdynia,6828243880,Bielawa,Gabinet dietetyczny,21
+340,Bio Vital & Synowie,2299397194,Sosnowiec,Siłownia / klub sportowy,3
+341,Vita Płock,5505407622,Świnoujście,Gabinet dietetyczny,5
+342,Strong Active Sosnowiec,3268936924,Częstochowa,Gabinet dietetyczny,5
+343,Pharma Super Partner,2301348974,Płock,Apteka,18
+344,Vita Sport ,3638319359,Radom,Medycyna estetyczna / klinika urody,24
+345,Glow Fit,6588216295,Rybnik,Apteka,2
+346,Gold Life Włocławek,8494087448,Olsztyn,Apteka,1
+347,Active Active ,2534455226,Jarosław,Siłownia / klub sportowy,13
+348,Ultra Pharma Radom,6053721063,Kościerzyna,Medycyna estetyczna / klinika urody,1
+349,Apteka Gold,8346807665,Częstochowa,Gabinet dietetyczny,24
+350,Active Energy,4807853459,Kutno,Sklep internetowy z suplementami,17
+351,Power Expert s.c,9320656819,Dąbrowa Górnicza,Siłownia / klub sportowy,19
+352,Glow Strong,2410238393,Zamość,Zielarnia,14
+353,Apteka Płock,6176317012,Płock,Apteka,23
+354,Active Health,3643857728,Koszalin,Siłownia / klub sportowy,15
+355,Naturalna Plus,1219671057,Kalisz,Medycyna estetyczna / klinika urody,6
+356,Pro Expert,2972824331,Bolesławiec,Sklep internetowy z suplementami,19
+357,Zdrowie Pro s.c,6267876177,Koszalin,Apteka,20
+358,Zielarnia Max,9897821973,Ostrów Wielkopolski,Siłownia / klub sportowy,6
+359,Muscle Pro,3130723153,Poznań,Medycyna estetyczna / klinika urody,8
+360,Vital Life,9627401463,Koszalin,Sklep internetowy z suplementami,14
+361,Health Health Partner,3523261529,Gliwice,Medycyna estetyczna / klinika urody,4
+362,Pure Life Płock,3990970430,Białystok,Drogeria specjalistyczna,18
+363,Elite Active Gorzów Wielkopolski,1080091506,Białogard,Zielarnia,6
+364,Life Fit s.c,0615254436,Otwock,Zielarnia,16
+365,Active Ruda Śląska,6171138616,Suwałki,Medycyna estetyczna / klinika urody,12
+366,Power Apteka Bydgoszcz,1685486559,Bielsko-Biała,Medycyna estetyczna / klinika urody,13
+367,Super Health Szczecin,6903033429,Tychy,Drogeria specjalistyczna,10
+368,Glow Super,4511805773,Lublin,Sklep internetowy z suplementami,19
+369,Zielarnia Dąbrowa Górnicza,6373126850,Myszków,Apteka,13
+370,Naturalna Health Partner,6253294268,Tczew,Medycyna estetyczna / klinika urody,16
+371,Vital Natural,4436072649,Sosnowiec,Gabinet dietetyczny,22
+372,Vital Zdrowie Włocławek,9799766173,Kłodzko,Drogeria specjalistyczna,15
+373,Drogeria Vital Sp. z o.o.,7771962259,Czechowice-Dziedzice,Zielarnia,12
+374,Power Care ,5777560306,Łomża,Siłownia / klub sportowy,10
+375,Pro Expert & Synowie,1846631169,Olsztyn,Zielarnia,8
+376,Sport Herbapol Słupsk,5869449431,Poznań,Medycyna estetyczna / klinika urody,10
+377,Fitness Premium & Synowie,9401967032,Jastrzębie-Zdrój,Apteka,14
+378,Zielarnia Elite,3918833720,Rybnik,Drogeria specjalistyczna,8
+379,Siłownia Gorzów Wielkopolski,9326755020,Wyszków,Supermarket / drogeria wielkopowierzchniowa,2
+380,Team Power Zielona Góra,6430634789,Rzeszów,Sklep internetowy z suplementami,19
+381,Siłownia Premium & Synowie,2369551532,Płońsk,Medycyna estetyczna / klinika urody,16
+382,Pharma Super,1656293419,Giżycko,Drogeria specjalistyczna,5
+383,Max Vita Katowice,8216505096,Augustów,Supermarket / drogeria wielkopowierzchniowa,1
+384,Glow Vital ,5359709096,Płock,Medycyna estetyczna / klinika urody,11
+385,Siłownia Łódź,3991331656,Szczecin,Apteka,13
+386,Drogeria Well,7117821912,Wągrowiec,Supermarket / drogeria wielkopowierzchniowa,13
+387,Bio Częstochowa,2219691342,Radom,Supermarket / drogeria wielkopowierzchniowa,16
+388,Glow Grudziądz,3957255439,Elbląg,Zielarnia,17
+389,Apteka Ruda Śląska,8612556658,Świebodzice,Medycyna estetyczna / klinika urody,18
+390,Elite Vita Koszalin,5025373421,Ciechanów,Sklep internetowy z suplementami,16
+391,Zielarnia Wałbrzych,1659649503,Pruszków,Medycyna estetyczna / klinika urody,12
+392,Sport Rybnik,4639105582,Sosnowiec,Supermarket / drogeria wielkopowierzchniowa,5
+393,Zdrowie Ultra,2413803772,Świdnica,Supermarket / drogeria wielkopowierzchniowa,20
+394,Beauty Sport Rybnik,0756561388,Wałbrzych,Supermarket / drogeria wielkopowierzchniowa,9
+395,Kosmetyki Płock,9921344051,Białystok,Sklep internetowy z suplementami,21
+396,Bio Strong Group,0179847471,Wyszków,Drogeria specjalistyczna,13
+397,Active Strong Group,2431039505,Olsztyn,Siłownia / klub sportowy,7
+398,Sport Force,6413506396,Kwidzyn,Apteka,15
+399,Force Beauty Rybnik,5693659967,Zakopane,Apteka,3
+400,Beauty Gdynia,7445509907,Słupsk,Siłownia / klub sportowy,6
+401,Wellness Sport Gliwice,7792317239,Opole,Siłownia / klub sportowy,8
+402,Active Life Kraków,9662531490,Dębica,Drogeria specjalistyczna,15
+403,Apteki Włocławek,5733440049,Tychy,Apteka,25
+404,Muscle Elbląg,7487870414,Łódź,Apteka,7
+405,Vita Eco,3729714439,Białogard,Medycyna estetyczna / klinika urody,1
+406,Eko Ultra ,7841202746,Radom,Medycyna estetyczna / klinika urody,24
+407,Health Team,1080614361,Gniezno,Gabinet dietetyczny,6
+408,Health Pro,0699638235,Zabrze,Zielarnia,7
+409,Suplementy Katowice,8634090545,Pszczyna,Drogeria specjalistyczna,25
+410,Energy Glow Chorzów,4883153273,Włocławek,Supermarket / drogeria wielkopowierzchniowa,25
+411,Sport Health Team,8404811783,Słupsk,Medycyna estetyczna / klinika urody,23
+412,Active Tychy,6034197837,Ełk,Zielarnia,14
+413,Glow Gold,0915384437,Głogów,Drogeria specjalistyczna,13
+414,Life Herbapol Szczecin,6127661102,Łódź,Drogeria specjalistyczna,24
+415,Dbam o Zdrowie Gdynia,4507703512,Nowa Sól,Apteka,10
+416,Expert Siłownia Gliwice,0815465239,Olsztyn,Zielarnia,18
+417,Active Gdynia,5069935450,Lubliniec,Medycyna estetyczna / klinika urody,6
+418,Kosmetyki Team,0857358891,Elbląg,Drogeria specjalistyczna,5
+419,Siłownia Jaworzno,4384102611,Rumia,Siłownia / klub sportowy,17
+420,Beauty Elite & Synowie,9795108282,Szczecin,Siłownia / klub sportowy,19
+421,Natura Pro Sp. z o.o.,3281948197,Racibórz,Medycyna estetyczna / klinika urody,5
+422,Sport Bydgoszcz,7269225929,Opole,Zielarnia,8
+423,Life Siłownia Bydgoszcz,9230249222,Lębork,Drogeria specjalistyczna,5
+424,Care Eko Wałbrzych,3686065831,Zabrze,Sklep internetowy z suplementami,10
+425,Naturalna Strong ,8145455680,Lublin,Sklep internetowy z suplementami,6
+426,Eko Vital,3091733995,Białogard,Apteka,6
+427,Natura Well,6985840824,Suwałki,Gabinet dietetyczny,14
+428,Vita Bio,0423995924,Świdnik,Supermarket / drogeria wielkopowierzchniowa,11
+429,Life Apteki Tychy,8191730918,Wrocław,Zielarnia,6
+430,Pharma Elbląg,6613076159,Zduńska Wola,Siłownia / klub sportowy,23
+431,Vital Energy,1470020997,Zawiercie,Siłownia / klub sportowy,16
+432,Suplementy Elite s.c,1388817817,Wieluń,Siłownia / klub sportowy,13
+433,Glow Super ,6696081091,Racibórz,Siłownia / klub sportowy,2
+434,Zdrowie Radom,8311673713,Chojnice,Supermarket / drogeria wielkopowierzchniowa,12
+435,Eko Olsztyn,8944241214,Białogard,Gabinet dietetyczny,24
+436,Pro Kalisz,8249536538,Piaseczno,Medycyna estetyczna / klinika urody,8
+437,Drogeria Sosnowiec,7149850350,Nowy Sącz,Siłownia / klub sportowy,18
+438,Active Strong ,3319920498,Świdnica,Gabinet dietetyczny,23
+439,Natura Max,2395965631,Tychy,Gabinet dietetyczny,5
+440,Dbam o Zdrowie Pro,3766313996,Kalisz,Gabinet dietetyczny,8
+441,Beauty Jastrzębie-Zdrój,8507208152,Jarosław,Supermarket / drogeria wielkopowierzchniowa,2
+442,Vita Power,4582836032,Legnica,Zielarnia,9
+443,Glow Fitness Ruda Śląska,7547170332,Żory,Apteka,24
+444,Kosmetyki Gdańsk,1333996860,Bartoszyce,Drogeria specjalistyczna,24
+445,Zdrowie Health,8102141500,Opole,Drogeria specjalistyczna,3
+446,Ultra Power Kalisz,3651107167,Augustów,Sklep internetowy z suplementami,18
+447,Vital Max Partner,4089740842,Zielona Góra,Sklep internetowy z suplementami,15
+448,Dbam o Zdrowie Glow Sp. z o.o.,9080209274,Pruszcz Gdański,Supermarket / drogeria wielkopowierzchniowa,8
+449,Health Active Sp. z o.o.,9538217989,Jastrzębie-Zdrój,Apteka,6
+450,Sport Vita Gdańsk,8606245247,Piła,Supermarket / drogeria wielkopowierzchniowa,5
+451,Care Opole,7196108793,Gliwice,Gabinet dietetyczny,18
+452,Vita Life,2045877954,Warszawa,Zielarnia,6
+453,Pharma Toruń,4846624505,Bytom,Apteka,17
+454,Muscle Glow Partner,2671928287,Tarnów,Supermarket / drogeria wielkopowierzchniowa,12
+455,Super Sport Ruda Śląska,8756273784,Kędzierzyn-Koźle,Siłownia / klub sportowy,21
+456,Apteki Active,9028454030,Świebodzice,Supermarket / drogeria wielkopowierzchniowa,4
+457,Naturalna Wellness,3775219888,Piastów,Sklep internetowy z suplementami,22
+458,Apteka Team s.c,8392483475,Toruń,Drogeria specjalistyczna,15
+459,Health Natural ,5484389698,Kraków,Gabinet dietetyczny,8
+460,Apteki Zielona Góra,5057382730,Bielsko-Biała,Sklep internetowy z suplementami,21
+461,Muscle Premium & Synowie,7368020173,Ostrów Mazowiecka,Supermarket / drogeria wielkopowierzchniowa,16
+462,Natura Pro,3955582122,Płońsk,Sklep internetowy z suplementami,4
+463,Wellness Bio Łódź,5633000785,Ruda Śląska,Zielarnia,10
+464,Super Eko Bielsko-Biała,0173457433,Katowice,Medycyna estetyczna / klinika urody,18
+465,Pro Beauty Group,0225163196,Jarosław,Supermarket / drogeria wielkopowierzchniowa,22
+466,Care Kosmetyki Gorzów Wielkopolski,0578766494,Dąbrowa Górnicza,Drogeria specjalistyczna,12
+467,Natura Elbląg,3438221845,Toruń,Gabinet dietetyczny,3
+468,Natura Dąbrowa Górnicza,3555009749,Cieszyn,Gabinet dietetyczny,13
+469,Siłownia Olsztyn,7558438008,Łódź,Drogeria specjalistyczna,11
+470,Kosmetyki Power,6560959198,Opole,Gabinet dietetyczny,3
+471,Kosmetyki Elite ,3652039754,Kraśnik,Medycyna estetyczna / klinika urody,5
+472,Elite Drogeria Gliwice,6284582437,Gorzów Wielkopolski,Gabinet dietetyczny,10
+473,Sport Vita Gdańsk,2704392235,Szczecin,Gabinet dietetyczny,8
+474,Health Energy Partner,6022607176,Nowy Targ,Zielarnia,15
+475,Sport Active,9430851553,Legnica,Drogeria specjalistyczna,8
+476,Beauty Sport,7477720265,Tarnów,Gabinet dietetyczny,20
+477,Vital Poznań,8591488144,Zduńska Wola,Medycyna estetyczna / klinika urody,24
+478,Strong Vita Łódź,2047307898,Łowicz,Gabinet dietetyczny,19
+479,Naturalna Expert,9808066694,Zielona Góra,Zielarnia,24
+480,Nutri Gliwice,2463776189,Włocławek,Siłownia / klub sportowy,20
+481,Bio Pure,3478774404,Kraków,Sklep internetowy z suplementami,25
+482,Apteka Health,4814390667,Gdynia,Apteka,23
+483,Pro Kielce,7424635839,Żory,Apteka,11
+484,Kosmetyki Szczecin,6790710786,Wołomin,Supermarket / drogeria wielkopowierzchniowa,6
+485,Zielarnia Gliwice,4581577605,Piaseczno,Medycyna estetyczna / klinika urody,20
+486,Energy Kosmetyki Gdańsk,0704365776,Radomsko,Medycyna estetyczna / klinika urody,11
+487,Pro Vita Zielona Góra,9286196885,Jaworzno,Drogeria specjalistyczna,2
+488,Dbam o Zdrowie Ultra,8992136462,Bartoszyce,Drogeria specjalistyczna,9
+489,Shine Zdrowie Toruń,0966451878,Szczecin,Drogeria specjalistyczna,16
+490,Glow Wrocław,7405510543,Szczecinek,Medycyna estetyczna / klinika urody,20
+491,Herbapol Gold Team,1960424139,Szczecin,Medycyna estetyczna / klinika urody,2
+492,Vita Team,8682910895,Żory,Gabinet dietetyczny,23
+493,Fit Glow Bielsko-Biała,2306371722,Płońsk,Medycyna estetyczna / klinika urody,17
+494,Vita Wrocław,8927223578,Poznań,Medycyna estetyczna / klinika urody,22
+495,Sport Force,2156018307,Olkusz,Zielarnia,12
+496,Power Muscle Gorzów Wielkopolski,3617295383,Tarnobrzeg,Drogeria specjalistyczna,20
+497,Natura Zabrze,6167367038,Lębork,Supermarket / drogeria wielkopowierzchniowa,23
+498,Fitness Active Partner,1148412658,Gliwice,Supermarket / drogeria wielkopowierzchniowa,20
+499,Life Team s.c,7071347648,Krosno,Gabinet dietetyczny,17
+500,Vital Energy Partner,1286652334,Bielsko-Biała,Drogeria specjalistyczna,2

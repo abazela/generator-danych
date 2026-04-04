@@ -57,6 +57,11 @@ CHWYTLIWE_SLOWO = [
     "Care", "Glow", "Shine", "Well", "Wellness", "Sport", "Team"
 ]
 
+KONCOWKA = [
+    "", "Team", "Group", "Sp. z o.o.", "& Synowie", "Partner", "s.c"
+]
+
+
 MIASTA = [
     "Warszawa", "Kraków", "Łódź", "Wrocław", "Poznań", "Gdańsk", "Szczecin",
     "Bydgoszcz", "Lublin", "Katowice", "Białystok", "Gdynia", "Częstochowa",
@@ -65,9 +70,5 @@ MIASTA = [
     "Opole", "Płock", "Elbląg", "Gorzów Wielkopolski", "Wałbrzych", "Włocławek",
     "Chorzów", "Zielona Góra", "Koszalin", "Kalisz", "Legnica", "Grudziądz",
     "Słupsk", "Jaworzno", "Jastrzębie-Zdrój"
-]
-
-KONCOWKA = [
-    "", "Team", "Group", "Sp. z o.o.", "& Synowie", "Partner", "s.c"
 ]
 

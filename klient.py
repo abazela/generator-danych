@@ -37,8 +37,6 @@ def generowanie_klientow(liczba_klientow, pracownicy, max_id = 0):
 
 def generowanie_nazwa_firmy():
 
-    #generowanie realistycznych nazw
-
     szablon = random.choice([
         "{kategoria} {slowo}",
         "{kategoria} {slowo} {koncowka}",

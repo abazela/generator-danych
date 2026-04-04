@@ -14,7 +14,7 @@ def generowanie_pozycje_zamowienie(zamowienia, produkty, max_id_zamowienia, max_
     id_pozycji = max_id_pozycji + 1
 
     for zamowienie in range(max_id_zamowienia + 1, max_id_zamowienia + zamowienia + 1):
-        liczba_pozycji = random.randint(2, 10)
+        liczba_pozycji = random.randint(1, 7)
 
 
         for _ in range(liczba_pozycji):
@@ -52,7 +52,7 @@ def generowanie_pozycje_zamowienie(zamowienia, produkty, max_id_zamowienia, max_
         df = pd.concat([df, pd.DataFrame([nowa_pozycja])], ignore_index=True)
         id_pozycji += 1
 
-    # ujemna/zerowa ilość produktów - 6%
+    # zerowa ilość produktów - 6%
     bledna_ilosc_idx = random.sample(range(len(df)), k = int(len(df)*0.06))
     for idx in bledna_ilosc_idx:
         df.at[idx, 'Ilosc_opakowan'] = 0
