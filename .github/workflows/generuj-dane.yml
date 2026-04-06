@@ -18,7 +18,7 @@ jobs:
       run: pip install -r requirements.txt
     - name: Uruchom skrypt
       run: python main.py
-    - name: Commit zmiany w dane.xlsx
+    - name: Commit 
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_message: "Wygenerowano nowe dane"
